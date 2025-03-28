@@ -14,14 +14,14 @@ Bellevue, WA 98008
 
 Open 
 
-Monday-Wednesday 10:30AM-3:00PM
+Monday-Wednesday 10:30AM - 3:00PM
 
 Stylist
 
 Mayumi Sonoda
 
-Cut 
+- Cut 
 
-Colour 
+- Colour 
 
-Chat
+- Chat
