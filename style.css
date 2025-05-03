@@ -1,0 +1,124 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 200;
+    color: #686868;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.logo {
+    width: 110px;
+    height: auto;
+}
+
+.background-image {
+    position: fixed;
+    top: 40%;
+    left: 90%;
+    width: 80%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+    background-image: url("images/MDS_logo_ohne_letter.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+
+main {
+    flex: 1;
+} */
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+#contact {
+    padding: 1.5rem;
+
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+#contact p {
+    line-height: 0.5;
+}
+
+#contact h4 {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 400;
+    color: #686868;
+}
+
+#contact div {
+    margin-bottom: 1.5rem;
+}
+
+.contact-info p,
+.location p,
+.hours p,
+.stylist p {
+    font-size: 1rem;
+    color: #686868;
+}
+
+#contact a {
+    color: #686868;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+.location,
+.hours,
+.stylist,
+.menu {
+    padding: 0.5rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #686868;
+    margin-bottom: 0.5rem;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}
+
+.wrapper {
+    flex: 1;
+}
+
+footer {
+    width: 100%;
+    background-color: #686868;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    width: 100%;
+    margin-top: auto;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
